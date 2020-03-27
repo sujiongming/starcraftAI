@@ -4,6 +4,7 @@
 linux-model.zip
 
 Features:
+
 -support starcraft bot vs bot
 
 -built in AI, attack closest, and attack weakest
@@ -13,6 +14,4 @@ Features:
 -run with ubuntu 16.04 X64, python3.5
 
 
-win-linux-model.zip
-
-for bicnet
+win-linux-model.zip  for bicnet
